@@ -1,0 +1,28 @@
+# Form1
+ship_grid Tu:
+atk_grid Griglia di attacco:
+place_ships Piazza Navi
+turn_ship Gira
+start Inizia
+#######
+
+# Menù
+language Lingua
+english Inglese
+italian Italiano
+
+quit Esci
+###########
+
+# Avvisi
+ship_sunk Nave nemica affondata!
+player_win Hai vinto!
+enemy_win Hai perso!
+########
+
+# Errori
+ship_type_limit Numero massimo di navi piazzabili (di questo tipo) raggiunto!
+ship_out_of_bounds Piazza la nave all'interno dei bordi!
+ship_conflict Non puoi piazzare una nave sopra un'altra nave!
+already_hit Cella già colpita!
+########

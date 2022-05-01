@@ -1,0 +1,28 @@
+# Form1
+ship_grid Your grid:
+atk_grid Attack grid:
+place_ships Place Ships
+turn_ship Turn
+start Start
+#######
+
+# Menu
+language Language
+english English
+italian Italian
+
+quit Exit
+###########
+
+# Avvisi
+ship_sunk The ship of the enemy is sunk!
+player_win You won!
+enemy_win You lost!
+########
+
+# Errors
+ship_type_limit Maximum number of ships that can be placed (of this type) reached!
+ship_out_of_bounds Place the ship inside the bounds!
+ship_conflict You cannot place a ship on top of another ship!
+already_hit Cell already hit!
+########
